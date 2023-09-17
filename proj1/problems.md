@@ -1,0 +1,7 @@
+Some problems that we encountered while trying to get any of our projects to run are: free services no longer being free, out of date versions for dependencies, expired links, and not being able to get access to the AWS account.
+
+When trying to run the ClassMate project it used Heroku to run its cloud database. Heroku has been free for students in the past but in 2022 changed to only have paid models.
+As such we decided to no longer persue running that project. 
+
+The Sync-Ends project which we ended up getting to work had two issues. The first issue appeared during istallation where pip could not install the version of typed-ast that was specified in the requirements.txt file. This caused us to switch from trying to install Sync-Ends via pip and the PyPi package. We instead cloned the repo using git and modified the requirements.txt file manually to the correct version of typed-ast. This then caused some issues with running the project as the instrutions in the doco were no longer accurate. Through trial and error and some helpful and less than helpful error messages we were able to run the program.
+This introduced the second issue of the link to a postman collection provided in the doco is outdated and no longer works. This caused us to have to dive into postman collections and create one and the APIs held inside ourselves.
