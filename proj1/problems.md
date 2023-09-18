@@ -11,11 +11,9 @@ The slackbot project has some bugs in it. In the README file, during setup, they
 The Recipe Recommender setup was smooth and easy. However once we started running it, only the frontend part was working fine, including adding ingredients to the list. The backend, however couldn't work, where the search results weren't popping up. Upon back-tracking to the problem, it has been identified that a backend API issue, which needs more time to explore upon.
 
 Overall, Sync-ends and Slackbot applications were proved to be less painful to setup, but successfully run on our local machines. The Recipe Recommender(STAR GEN) project's frontend part had no issues at all, however the backend needs to be explored further. Sync-ends functionality is perfectly working as described in the README and Slackbot functionalities were partially run. For improvements,
-In Sync-Ends:
-
+In Sync-Ends:/
     we can first update the README file with latest instructions, add auto logging of all the APIs in question at someplace so that its history can be tracked properly.
-In slackbot:
-
+In slackbot:/
     Improve code readability via modularization, update README file with correct instructions, making sure that the functionalities in README are working properly. Also, making sure to perform code review and remove hand-coded variables (like system path, variable names).
 
 
