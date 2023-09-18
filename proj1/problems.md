@@ -14,12 +14,12 @@ In summary, both Sync-Ends and Slackbot applications exhibited reasonable ease o
 
 To drive improvements in the working projects:
 
-For <b>Sync-Ends:
+For <b>Sync-Ends:<b>
 
 Begin by updating the README file with the most up-to-date instructions to streamline the setup process.
 Consider implementing an automatic logging mechanism for all pertinent APIs, promoting a comprehensive history for better tracking and debugging.
 
-For <b>Slackbot:
+For <b>Slackbot:<b>
 
 Prioritize enhancing code readability through modularization, promoting a more organized and maintainable codebase.
 Revise the README file to ensure accurate and effective setup instructions, and verify that all functionalities outlined in the README are fully functional.
