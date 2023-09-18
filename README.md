@@ -17,3 +17,6 @@ Part 2: Working Video Link: https://www.youtube.com/watch?v=SYPZNGiqNqA
 Part 3: Essay available in Proj1 sub-directory! 
 
 Additional: Sync Ends working repository: https://github.com/smarabattula/Sync-Ends/ 
+
+## Project Collaborators
+Sasank Marabattula(smaraba@ncsu.edu), Matthew Sills(msills@ncsu.edu), Varun Deepak Gudhe (vgudhe@ncsu.edu)
