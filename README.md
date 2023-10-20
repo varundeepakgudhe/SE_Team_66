@@ -20,7 +20,7 @@ Additional: Sync Ends working repository: https://github.com/smarabattula/Sync-E
 
 ## Project 2 submission files present in Proj2 sub-directory
 
-- Project 2 score card: https://github.com/smarabattula/Sync-Ends (Included as a CSV file in github repo)
+- Project 2 score card: In project2 folder of this repo
 
   
 - Working video link: https://youtu.be/96ne_ia4KjE
