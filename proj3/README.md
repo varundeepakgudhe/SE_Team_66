@@ -6,10 +6,10 @@
 3) [Matthew Sills](https://github.com/matthew-sills): matthew-sills
 
 ## Part 1: Project Rubric
-Project Rubric: [proj3_scorecard.csv](https://github.com/varundeepakgudhe/SE_Team_66/blob/main/proj3/proj3_scorecard.csv)
+Project Rubric: [proj3_rubric.md](https://github.com/varundeepakgudhe/SE_Team_66/blob/main/proj3/proj3_rubric.md)
 
 ## Part 2: Project Walkthrough Video
 Walkthrough Video: [Youtube Link](https://youtu.be/omAxNoQEgWw)
 
 ## Project Repo Links:
-Unit Convertor: https://github.com/varundeepakgudhe/auto_anki/tree/main
+WebGPT-4 Anki Builder: https://github.com/varundeepakgudhe/auto_anki/tree/main
