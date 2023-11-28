@@ -6,7 +6,7 @@
 3) [Matthew Sills](https://github.com/matthew-sills): matthew-sills
 
 ## Part 1: Project Rubric
-Project Rubric: [Rubric Link](https://github.com/varundeepakgudhe/SE_Team_66/blob/main/proj3/proj3_scorecard.csv)
+Project Rubric: [proj3_scorecard.csv](https://github.com/varundeepakgudhe/SE_Team_66/blob/main/proj3/proj3_scorecard.csv)
 
 ## Part 2: Project Walkthrough Video
 Walkthrough Video: [Youtube Link](https://youtu.be/omAxNoQEgWw)
